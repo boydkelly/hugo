@@ -41,7 +41,7 @@
 %global provider_prefix %{provider}.%{provider_tld}/%{project}/%{repo}
 %global import_path     %{provider_prefix}
 # This commit is the 0.37 tag
-%global commit          d2fe9a73d84a5d1e9d6e3958d80d16ac09f63edb
+%global commit          456f5476cf9bf96c558448372058130fee1f9330 
 %global shortcommit     %(c=%{commit}; echo ${c:0:7})
 
 Name:           hugo
