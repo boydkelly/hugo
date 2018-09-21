@@ -441,6 +441,9 @@ export GOPATH=%{buildroot}/%{gopath}:%{gopath}
 %endif
 
 %changelog
+* Fri Sep 21 2018 Boyd Kelly <bkelly@coastsystems.net> - 0.48
+- Update version
+
 * Thu Mar 08 2018 Athos Ribeiro <athoscr@fedoraproject.org> - 0.37.1-1
 - Update version
 
