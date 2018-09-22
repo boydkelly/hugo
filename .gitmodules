@@ -1,0 +1,3 @@
+[submodule "locker"]
+	path = locker
+	url = https://github.com/BurntSushi/locker.git
